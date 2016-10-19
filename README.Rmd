@@ -1,0 +1,15 @@
+---
+title: "SappoRo.R #7 発表資料"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## スライド
+
+### 初心者向けワークショップ
+
+### stringrで文字列を操作
+
