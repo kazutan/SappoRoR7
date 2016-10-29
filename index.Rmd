@@ -21,4 +21,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## 発表セッション
 
-- [stringrで文字列処理をやってみる]{https://kazutan.github.io/SappoRoR7/stringr-intro.html}
+- [stringrで文字列処理をやってみる](https://kazutan.github.io/SappoRoR7/stringr-intro.html)
