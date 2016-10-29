@@ -1,0 +1,24 @@
+---
+title: "SappoRoR #7"
+author: "kazutan"
+date: "2016/10/29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+ここは,SappoRo.R #7で発表した資料などをおいています。
+
+[githubのリポジトリはこちら](https://github.com/kazutan/SappoRoR7)
+
+
+## 初心者セッション
+
+- [Rの導入](https://kazutan.github.io/SappoRoR7/r-intro.html)
+- [データハンドリング](https://kazutan.github.io/SappoRoR7/data_handling.html)
+
+## 発表セッション
+
+- [stringrで文字列処理をやってみる]{https://kazutan.github.io/SappoRoR7/stringr-intro.html}
